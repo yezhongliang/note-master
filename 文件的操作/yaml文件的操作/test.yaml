@@ -1,0 +1,11 @@
+dic:
+  name: Tester
+  age: 10
+  score:
+    - 100
+    - 20
+    - 30
+  isTrue: True
+  member:
+    zhangsan: 101
+    lisi: 200

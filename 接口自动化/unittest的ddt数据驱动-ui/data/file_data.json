@@ -1,0 +1,7 @@
+{
+    "test1":{"username": "aishangruance", "password": 123},
+    "test2":{"username": "aishangruance", "password": 1234},
+    "test3":{"username": "aishangruance", "password": 12345},
+    "test4":{"username": "aishangruance", "password": 123456},
+    "test5":{"username": "", "password": "hahaha"}
+}

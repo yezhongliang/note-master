@@ -1,0 +1,14 @@
+pyyaml
+pymysql
+xlrd
+xlwt
+django
+selenium
+openpyxl
+ddt
+zmail
+jsonpath
+pandas
+locust
+pytest
+

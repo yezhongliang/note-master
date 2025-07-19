@@ -1,0 +1,4 @@
+string1: lisi
+string2: li si
+string3: li\nsi
+string4: "li\nsi"

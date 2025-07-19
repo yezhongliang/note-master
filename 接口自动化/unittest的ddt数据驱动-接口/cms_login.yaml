@@ -1,0 +1,19 @@
+-
+  url: http://192.168.203.182:8080/cms/manage/loginJump.do
+  method: post
+  params:
+    userAccount: admin
+    loginPwd: 123456
+
+-
+    url: http://192.168.203.182:8080/cms/manage/loginJump.do
+    method: post
+    params:
+      userAccount: admin1111111
+      loginPwd: 123456
+-
+  url: http://192.168.203.182:8080/cms/manage/loginJump.do
+  method: post
+  params:
+    userAccount: null
+    loginPwd: 111111111111111111

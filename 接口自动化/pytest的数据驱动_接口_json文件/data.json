@@ -1,0 +1,35 @@
+[
+  {
+    "name": "登录成功用例",
+    "request": {
+      "method": "post",
+      "data": {
+        "userAccount": "admin",
+        "loginPwd": 123456
+      },
+      "url": "http://192.168.203.182:8080/cms/manage/loginJump.do"
+    }
+  },
+  {
+    "name": "登录失败用例",
+    "request": {
+      "method": "post",
+      "data": {
+        "userAccount": "admin",
+        "loginPwd": 123456
+      },
+      "url": "http://192.168.203.182:8080/cms/manage/loginJump.do"
+    }
+  },
+  {
+    "name": "登录失败用例",
+    "request": {
+      "method": "post",
+      "data": {
+        "userAccount": null,
+        "loginPwd": null
+      },
+      "url": "http://192.168.203.182:8080/cms/manage/loginJump.do"
+    }
+  }
+]

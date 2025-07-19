@@ -1,0 +1,254 @@
+{
+  "ffb7e54349c62bc1872e23352645908c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee202925ee2b07c1",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: aaaaaaaaaaaaaaaa",
+      "time" : {
+        "start" : 1683685854119,
+        "stop" : 1683685854119,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b284a1ee6746ad6406b588a879236b9f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df5e715e42cf38a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683685854165,
+        "stop" : 1683685854165,
+        "duration" : 0
+      }
+    } ]
+  },
+  "01333d24dad1103f3c9cbe6a32af6eb7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5173b1e96d8565d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683685854134,
+        "stop" : 1683685854150,
+        "duration" : 16
+      }
+    } ]
+  },
+  "5551bf457a7ebc79c5e5ac10dacad27d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52cbcc28c2709666",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683685854024,
+        "stop" : 1683685854024,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cb1bcef31af8a3e621d10b8ec3429074" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a9d09d77b4ae8eb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683685854056,
+        "stop" : 1683685854056,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1f11abb42a7b1ebfbdcc1126491b9f1a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59ebd674b5dd8826",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: xxxxxxxxxxxx",
+      "time" : {
+        "start" : 1683685854134,
+        "stop" : 1683685854134,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c72a2ca2ab5c380b26fed4d71eee7ed8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b421f1024ff051e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683685854165,
+        "stop" : 1683685854165,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3fbe20abd5a0aa11c4a9891b08858c13" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f9e752f15840b5e2",
+      "status" : "skipped",
+      "statusDetails" : "XFAIL reason: 该功能尚未完善\n\n_pytest.outcomes.XFailed: 该功能尚未完善",
+      "time" : {
+        "start" : 1683685854072,
+        "stop" : 1683685854072,
+        "duration" : 0
+      }
+    } ]
+  },
+  "607f5312dc401c0f9307708ecaba5d37" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6ac4010cec3a39d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683685854065,
+        "stop" : 1683685854065,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a021b551edcc892e6355391855d0a6d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "46f5ed83a868f61a",
+      "status" : "passed",
+      "statusDetails" : "XPASS 测试一下这个装饰器",
+      "time" : {
+        "start" : 1683685854134,
+        "stop" : 1683685854134,
+        "duration" : 0
+      }
+    } ]
+  },
+  "556c5d145a4a94d96ac8a741d1b1b5bf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7b46890b6263726",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683685854040,
+        "stop" : 1683685854040,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c09dd5a76495332f384a7c29e8325574" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59ae5a1c7bc8f0ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683685854150,
+        "stop" : 1683685854150,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d81b88430feb223fc15feb5048d57043" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44bada0ebf19846",
+      "status" : "passed",
+      "statusDetails" : "XPASS",
+      "time" : {
+        "start" : 1683685854072,
+        "stop" : 1683685854072,
+        "duration" : 0
+      }
+    } ]
+  }
+}

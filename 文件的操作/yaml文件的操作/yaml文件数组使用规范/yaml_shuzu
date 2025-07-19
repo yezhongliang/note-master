@@ -1,0 +1,21 @@
+data0:
+  test_user
+
+data1:
+  user1:
+    username: test01
+    password: 123456
+  user2:
+    username: test02
+    password: 123456
+
+data2:
+  -
+    username: zhangsan
+    password: 123456
+  -
+    username: lisi
+    password: 123456
+  -
+    username: wangwu
+    password: 123456

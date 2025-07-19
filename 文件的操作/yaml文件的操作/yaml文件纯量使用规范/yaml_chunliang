@@ -1,0 +1,13 @@
+chunlaing_int: 123456
+chunliang_bool1: TRUE
+chunliang_bool2: True
+chunliang_bool3: true
+chunliang_bool4: TRue
+chunliang_bool5: FALSE
+chunliang_bool6: false
+chunliang_bool7: False
+chunliang_bool8: FALse
+chunliang_null1: null
+chunliang_null2: ~
+chunliang_date: 2011-11-11
+chunliang_datetime: 2011-11-11t11:11:11
